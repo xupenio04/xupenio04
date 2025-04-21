@@ -20,4 +20,10 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 📊 GitHub Stats
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=xupenio04&layout=compact&langs_count=8&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xupenio04&show_icons=true&theme=dark)
+
+
 <!---->
